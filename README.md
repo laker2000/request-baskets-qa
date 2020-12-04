@@ -1,3 +1,3 @@
-# bingo [![Build Status](https://travis-ci.com/laker2000/bingo.svg?branch=main)](https://travis-ci.com/laker2000/bingo)
-bingo gogo                              
+# request-baskets-qa [![Build Status](https://travis-ci.com/laker2000/request-baskets-qa.svg?branch=master)](https://travis-ci.com/laker2000/request-baskets-qa)
+                              
 
