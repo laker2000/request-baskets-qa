@@ -5,8 +5,7 @@ sudo: true
 before_script: sudo ./before_script_actions.sh
 script:
   - mvn clean verify
-  - ls -ltra
   - cat test.config
 
 notifications:
-  slack: effortel-group:P1e0Xos5vRW2rV7Unvyasaqe
+  slack: effortel-group:3UMY2ieA4xWzPTsQplKqUhNW
