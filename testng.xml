@@ -23,6 +23,8 @@
             <class name="tests.api.baskets.post.TestBasketsPostWrongConfiguration"/>
             <class name="tests.api.baskets.post.TestBasketsPostWrongName"/>
 
+            <class name="tests.api.baskets.put.TestBasketsPut"/>
+
             <class name="tests.api.responses.get.TestResponsesGet"/>
             <class name="tests.api.responses.get.TestResponsesGetWithoutToken"/>
             <class name="tests.api.responses.get.TestResponsesGetWrongName"/>
@@ -34,6 +36,8 @@
             <class name="tests.api.responses.put.TestResponsesPutWrongConfiguration"/>
             <class name="tests.api.responses.put.TestResponsesPutWrongName"/>
             <class name="tests.api.responses.put.TestResponsesPutWrongToken"/>
+
+            <class name="tests.api.service.TestService"/>
 
         </classes>
     </test> <!-- Test -->
