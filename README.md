@@ -27,7 +27,7 @@ chmod 777 ~/go/bin/./request-baskets
 
 Then execute test suite by running testng.xml file in your favourite IDE or with: 
 ```
-mvn clean test
+mvn clean test 
 ```
 
 
